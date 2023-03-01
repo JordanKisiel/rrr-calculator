@@ -1,0 +1,28 @@
+{
+  "keypadRows": [
+    [
+      { "value": 7, "color": "#29434e" },
+      { "value": 8, "color": "#29434e" },
+      { "value": 9, "color": "#29434e" },
+      { "value": "÷", "color": "#546e7a" }
+    ],
+    [
+      { "value": 4, "color": "#29434e" },
+      { "value": 5, "color": "#29434e" },
+      { "value": 6, "color": "#29434e" },
+      { "value": "×", "color": "#546e7a" }
+    ],
+    [
+      { "value": 1, "color": "#29434e" },
+      { "value": 2, "color": "#29434e" },
+      { "value": 3, "color": "#29434e" },
+      { "value": "-", "color": "#546e7a" }
+    ],
+    [
+      { "value": 0, "color": "#29434e" },
+      { "value": ".", "color": "#29434e" },
+      { "value": "=", "color": "#0277bd" },
+      { "value": "+", "color": "#546e7a" }
+    ]
+  ]
+}

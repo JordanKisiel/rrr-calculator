@@ -1,8 +1,13 @@
+import { Container } from "@mui/system"
+import Display from "./components/Display"
+import Keypad from "./components/Keypad"
+
 function App() {
   return (
-    <div>
-      <h1>Hello New Project</h1>
-    </div>
+    <Container maxWidth="sm" sx={{ marginTop: "30px" }}>
+      <Display />
+      <Keypad />
+    </Container>
   )
 }
 
